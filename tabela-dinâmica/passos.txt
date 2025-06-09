@@ -1,0 +1,7 @@
+1. Identificar a linguagem.
+    R.: HTML & CSS e JavaScript
+2. Saber o que a atividade pede.
+    R.: Fazer uma tabela utilizando 3 arrays.
+3. Fazer o preparo.
+    R.: Criar a estrutura do HTML & CSS.
+4. Criar a lógica.
